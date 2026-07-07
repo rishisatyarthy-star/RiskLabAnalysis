@@ -46,29 +46,30 @@ Evaluate:
 ## Tools & Technologies
 
 ### Programming Language
-- [Python](https://www.python.org/doc/)
+- [Python](https://www.python.org/)
 
 ### Data Analysis & Manipulation
-- Pandas
-- NumPy
+- [Pandas](https://pandas.pydata.org/docs/)
+- [NumPy](https://numpy.org/doc/)
 
 ### Statistical Analysis
-- SciPy
-- Statsmodels
+- [SciPy](https://docs.scipy.org/doc/scipy/)
+- [Statsmodels](https://www.statsmodels.org/stable/index.html)
 
 ### Data Visualisation
-- Matplotlib
-- Seaborn
-- Plotly
+- [Matplotlib](https://matplotlib.org/stable/)
+- [Seaborn](https://seaborn.pydata.org/)
+- [Plotly](https://plotly.com/python/)
 
 ### Machine Learning
-- Scikit-learn
+- [Scikit-learn](https://scikit-learn.org/stable/)
 
 ### Development Environment
-- Jupyter Notebook
-- Visual Studio Code
-- Git & GitHub
+- [Jupyter Notebook](https://jupyter.org/documentation)
+- [Visual Studio Code](https://code.visualstudio.com/docs)
+- [Git](https://git-scm.com/doc)
+- [GitHub](https://docs.github.com/)
 
 ### Future Development
-- Streamlit (interactive dashboards)
-- Flask (web applications)
+- [Streamlit](https://docs.streamlit.io/)
+- [Flask](https://flask.palletsprojects.com/)
