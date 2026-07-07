@@ -43,6 +43,32 @@ Evaluate:
 - Setting up project structure
 - Planning first simulation model
 
-## Tools
+## Tools & Technologies
+
+### Programming Language
 - Python
-- Git / GitHub
+
+### Data Analysis & Manipulation
+- Pandas
+- NumPy
+
+### Statistical Analysis
+- SciPy
+- Statsmodels
+
+### Data Visualisation
+- Matplotlib
+- Seaborn
+- Plotly
+
+### Machine Learning
+- Scikit-learn
+
+### Development Environment
+- Jupyter Notebook
+- Visual Studio Code
+- Git & GitHub
+
+### Future Development
+- Streamlit (interactive dashboards)
+- Flask (web applications)
