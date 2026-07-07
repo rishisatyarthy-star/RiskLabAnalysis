@@ -31,7 +31,9 @@ Insurance: Predict claim cost.
 #### Models:
 
 Baseline: Linear regression
+
 Advanced: Random forest
+
 Evaluate:
 - MAE
 - RMSE
