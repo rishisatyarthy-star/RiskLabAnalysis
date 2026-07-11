@@ -80,13 +80,14 @@ This project uses the **French Motor Third-Party Liability (freMTPL2)** dataset,
 obtained via Kaggle.
 
 - **Original source:** `CASdatasets` R package by Christophe Dutang and Arthur Charpentier,
-  originally compiled for *Computational Actuarial Science with R* (ed. Arthur Charpentier).
-  Official repository: https://dutangc.github.io/CASdatasets/
+  originally compiled for *Computational Actuarial Science with R* (ed. Arthur Charpentier). Official repository: https://dutangc.github.io/CASdatasets/
 - **License:** GPL (>= 2)
-- **Accessed via:** Kaggle mirror — [https://www.kaggle.com/datasets/karansarpal/fremtpl-french-motor-tpl-insurance-claims?resource=download]
+- **Accessed via:** Kaggle mirror — [https://www.kaggle.com/datasets/karansarpal/fremtpl2-french-motor-tpl-insurance-claims]
 - **Citation:**
   > Dutang, C. and Charpentier, A. *CASdatasets: Insurance datasets*, R package.
 
 The dataset contains anonymized policy-level information for approximately 680,000 French motor insurance policies, including vehicle, driver, and regional characteristics, together with claim frequency and claim severity data. No personally identifiable information is included. 
 
 This repository is an independent educational and portfolio project intended to demonstrate actuarial and data science techniques. It is not affiliated with or endorsed by the original dataset authors. Full credit for the dataset belongs to its original creators.
+
+You can view more information about the datasets here: [https://cas.uqam.ca/pub/web/CASdatasets-manual.pdf] 
