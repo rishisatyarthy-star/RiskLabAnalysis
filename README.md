@@ -4,7 +4,7 @@
 Build a Python risk analytics toolkit demonstrating statistical analysis, financial risk modelling, and predictive methods.
 
 ## Project Structure
-Part 1 — Insurance Risk Module
+Insurance Risk Module
 - Data overview
 - Cleaning
 - Missing values
@@ -15,18 +15,6 @@ Part 1 — Insurance Risk Module
 - Claim severity modelling
 - Distribution fitting
 - Expected loss calculation
-
-Part 2 - Market Risk Module
-- Download price data
-- Calculate returns
-- Volatility
-- Correlation
-- Portfolio analysis
-- Historical VaR
-- Monte Carlo VaR
-
-Part 3 - Prediction Module
-Insurance: Predict claim cost.
 
 #### Models:
 
